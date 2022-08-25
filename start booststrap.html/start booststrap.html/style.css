@@ -1,0 +1,50 @@
+body #portaimagen {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body .portaimagen img {
+    margin: 20px 40px;
+    border-radius: 15px;
+    width: 350px;
+    height: 220px;
+}
+
+body #seccionPortafolio h1 {
+    margin-top: 30px;
+    text-align: center;
+    color: #2c3e50;
+    font-size: 45px;
+}
+
+body #seccionPortafolio .estrella {
+    margin-left: 37%;
+}
+
+body #acercaDe h1 {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 15px;
+}
+
+body #acercaDe .estrella {
+    margin-left: 33%;
+}
+
+body #acercaDe #containerS3 {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body #acercaDe #containerS3 p {
+    width: 45%;
+    height: 20px;
+    margin: 25px 25px;
+    font-size: 20px;
+}
+
+body #acercaDe button{
+    margin-top: 150px;
+    margin-left: 620px;
+}
